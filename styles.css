@@ -108,9 +108,9 @@
   .iphone {
     border-radius: 35px;
     transition: background 0.3s ease;
-    width: 100%;
-    max-width: 350px; /* Set the max width for the phone */
-    height: auto;
+    /* width: 100%; */
+    /* max-width: 350px; */
+    height: 90vh;
     background: linear-gradient(#4C7878, #304E4E, black);
   }
 
