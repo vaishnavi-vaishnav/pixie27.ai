@@ -197,7 +197,7 @@
     cursor: pointer;
   }
 
-  small{
+  .paragraph{
     font-size: var(--paragraph-text);
   }
 
@@ -424,7 +424,7 @@
     cursor: pointer;
     /* transition: transform 0.2s ease, box-shadow 0.3s ease; */
     bottom: 20px;
-    right: 25px;
+    right: 15px;
   }
   
   #refreshPalette:hover {
