@@ -20,6 +20,10 @@
     * {
         box-sizing: border-box;  /* Make sure padding and borders don't affect element size */
       }
+
+  :root{
+  --paragraph-text : 12px; 
+  }    
       
   
   /* Apply a lighter color to the left and right sidebar cards */
@@ -193,6 +197,9 @@
     cursor: pointer;
   }
 
+  small{
+    font-size: var(--paragraph-text);
+  }
 
 /* Footer style */
 .footer-text {
