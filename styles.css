@@ -224,12 +224,13 @@
   /* ABOUT ME */
 
   .about-screen .content {
-    padding: 1rem;
+    padding: 0 1rem;
   }
 
   .about-screen p{
-    font-size: 14px;
+    font-size: 12px;
     color: #333;
+    line-height: 1.2;
   }
   .aboutheader{
     position: sticky;
