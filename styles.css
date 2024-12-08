@@ -121,7 +121,7 @@
     width: 78%;
     max-width: 350px;
     display: grid;
-    gap: 25px;
+    gap: 15px;
    
   }
   
@@ -153,8 +153,8 @@
   
   /* Circle around the Icon */
   .app-icon-circle {
-    width: 45px;
-    height: 45px;
+    width: 35px;
+    height: 35px;
     border-radius: 50%;
     cursor: pointer;
     display: flex;
@@ -166,8 +166,8 @@
   
   /* App Icon */
   .icon {
-    width: 30px;
-    height: 30px;
+    width: 25px;
+    height: 25px;
     object-fit: contain;
   }
   
