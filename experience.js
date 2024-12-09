@@ -35,8 +35,8 @@ function showScreen(screenId) {
 
   });
   
-  document.getElementById("closeAboutMeScreen").addEventListener("click", () => {
-    closeScreen("aboutMeScreen");
+  document.getElementById("closeExperienceScreen").addEventListener("click", () => {
+    closeScreen("experienceScreen");
     appGrid.classList.remove('d-none'); // Show app grid
     phoneImage.style.background = 'linear-gradient(#4C7878, #304E4E, black)';
     paletteScreen.classList.add('d-none'); // Hide palette screen
