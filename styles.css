@@ -122,11 +122,10 @@
   /* General styling for the app grid */
    .app-grid {
     top: 10%;
-    width: 80%;
+    width: 78%;
     max-width: 350px;
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr;
-    gap: 10px;
+    gap: 15px;
    
   }
   
@@ -179,7 +178,7 @@
   /* App Label Text */
   .app-label {
     margin-top: 5px;
-    font-size: 9px;
+    font-size: 10px;
     color: #fff;
     font-weight: 400;
   }
