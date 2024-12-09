@@ -122,10 +122,11 @@
   /* General styling for the app grid */
    .app-grid {
     top: 10%;
-    width: 78%;
+    width: 80%;
     max-width: 350px;
     display: grid;
-    gap: 15px;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 10px;
    
   }
   
