@@ -254,21 +254,9 @@
     font-size: 12px;
   }
   .accordion-body{
-
     font-size: 10px;;
   }
 
-  .accordion-button:hover {
-    font-size: 13px;
-  }
-  .accordion-button:not(.collapsed) {
-    background-color: #0277bd;
-    color: white;
-  }
-  .accordion-item {
-    background-color: #e1f5fe;
-    font-size: 10px;
-  } 
   
 
   
